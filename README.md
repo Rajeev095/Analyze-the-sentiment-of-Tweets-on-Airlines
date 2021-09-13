@@ -1,4 +1,4 @@
-# Airline-Tweets-Visualization-Web-App
+# Analyze the sentiment of tweets-Web-App
 
 ## How to use
 
